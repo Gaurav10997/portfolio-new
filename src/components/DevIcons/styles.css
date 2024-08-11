@@ -1,0 +1,15 @@
+.icons{
+    padding: 1rem;
+    font-size: 2rem;
+    /* border: 1px solid red; */
+}
+.icon-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+
+}
+.home__education{
+    font-size: larger;
+}
