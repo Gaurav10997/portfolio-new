@@ -7,6 +7,6 @@
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="http://Gauravsithole.com" target="_blank">Gaurav Mandal</a>.</h4>
+<h4 align="center">A simple personal website about</h4>
 
 <br>
