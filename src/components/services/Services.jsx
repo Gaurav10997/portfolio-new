@@ -24,7 +24,7 @@ const data = [
         image: Image3,
         title: "Problem Solving",
         description:
-            "Ensuring that a mobile app meets the correct standards, and also ensuring it's well maintained",
+            "Since I excel in mathematics, I am confident in my ability to tackle problems effectively ",
     },
 ];
 
