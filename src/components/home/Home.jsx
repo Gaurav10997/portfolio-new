@@ -1,8 +1,8 @@
 import React from 'react';
 import './Home.css';
 import Me from '../../assets/avatar-1.svg';
-import HeaderSocials from './HeaderSocials';
-import ScrollDown from './ScrollDown';
+// import HeaderSocials from './HeaderSocials';
+// import ScrollDown from './ScrollDown';
 import DevIcons from '../DevIcons/DevIcons';
 import Shapes from './Shapes';
 

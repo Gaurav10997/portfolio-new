@@ -1,6 +1,5 @@
 <h1 align="center">
   <br>
-  <!-- <a href="http://Gauravsithole.com"> -->
   <img src="./src/assets/light-logo.svg" alt="Gaurav Mandal" width="200"></a>
   <br>
   Gaurav Mandal's Personal Website
